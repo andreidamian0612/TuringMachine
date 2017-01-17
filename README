@@ -1,0 +1,5 @@
+The program uses 2 files : tm.in(commands that will be executed) and tape.in(the initial tape of the TM)
+Citesc fisierul ca o matrice alocata dinamic si pun fiecare linie pe pozitia corespunzatoare : sterg caracterul " \n" ca sa nu ma incurce la comparare 
+Citesc tape.in si adaug 1000 de # 
+Cat timp ma aflu in o stare care nu face parte din starile finale am un for pe tranzitii si daca starea curenta este cea din tranzitia citita,efectuez operatiile
+Verific daca masina se agata,in caz afirmativ printez in fisier,daca nu,merg mai departe pana ajung in stare finala.
