@@ -1,0 +1,8 @@
+Task1 :
+Citesc fisierul ca o matrice alocata dinamic si pun fiecare linie pe pozitia corespunzatoare : sterg caracterul " \n" ca sa nu ma incurce la comparare 
+Citesc tape.in si adaug 1000 de # 
+Cat timp ma aflu in o stare care nu face parte din starile finale am un for pe tranzitii si daca starea curenta este cea din tranzitia citita,efectuez operatiile
+Verific daca masina se agata,in caz afirmativ printez in fisier,daca nu,merg mai departe pana ajung in stare finala.
+Task 2 : 
+Scriu mereu # peste primul bit din primul numar,merg dreapta pana la diez,si apoi completez corespunzator cu 0 sau 1,si modofic mereu primul bit(pun A pt 1 si B pt 0) din al doilea numar ca sa stiu la care dintre biti treubie sa adun urmatorul bit din primul numar.
+Ca sa stiu mereu la care bit sa adun,am pus de fiecare data A(pt 1) si B(pt 0) cand ma intorc la primul numar.(cred ca pierd la capitolul eficienta dar nu am avut alta idee)
